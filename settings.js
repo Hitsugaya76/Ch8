@@ -10,7 +10,7 @@ global.antispam = false //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
-global.keyopenai = "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"
+global.keyopenai = "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"
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -29,18 +29,18 @@ global.socialm = "Instagram: mr_juice7" //ur github or insta name
 global.location = "New York, U.S.A" //ur location
 
 //new
-global.botname = "BayMax V8"
+global.botname = "BayMax AI"
 global.ownernumber = '263780699988'
-global.ownername = 'Mr Juice'
+global.ownername = 'ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×'
 global.ownerNumber = ["263780699988@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@mrjuiceofc"
 global.websitex = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"
 global.wagc = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"
-global.themeemoji = '🪀'
+global.themeemoji = '🐦'
 global.wm = "BayMax AI."
 global.botscript = 'https://github.com/mrjuice01' //script link
 global.packname = "Belongs To"
-global.author = "MR JUICE"
+global.author = "ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×"
 global.creator = "263780699988@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
