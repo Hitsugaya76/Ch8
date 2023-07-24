@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['263780699988'] //ur owner number
+global.ownernomer = "263780699988" //ur owner number2
+global.ownername = "Mr Juice" //ur owner name
+global.ytname = "YT: Mr Juice OFC" //ur yt chanel name
+global.socialm = "Instagram: mr_juice7" //ur github or insta name
+global.location = "New York, U.S.A" //ur location
 
 //new
-global.botname = "Cheems Bot MD V8"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Dc2qyVeK8JbJq8Gr3U1pKH"
+global.botname = "BayMax V8"
+global.ownernumber = '263780699988'
+global.ownername = 'Mr Juice'
+global.ownerNumber = ["263780699988@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@mrjuiceofc"
+global.websitex = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"
+global.wagc = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"
 global.themeemoji = '🪀'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "Sticker By"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.wm = "BayMax AI."
+global.botscript = 'https://github.com/mrjuice01' //script link
+global.packname = "Belongs To"
+global.author = "MR JUICE"
+global.creator = "263780699988@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
