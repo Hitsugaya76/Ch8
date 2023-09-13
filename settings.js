@@ -29,9 +29,9 @@ global.socialm = "Instagram: mr_juice7" //ur github or insta name
 global.location = "New York, U.S.A" //ur location
 
 //new
-global.botname = "𝐑𝐘𝐔𝐙𝐀𝐊𝐈"
+global.botname = "𝙅𝞗𝞖𝞜 𝙒𝞘𝘾𝞙"
 global.ownernumber = '243993366258'
-global.ownername = 'ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×'
+global.ownername = '𝙅𝞗𝞖𝞜 𝙒𝞘𝘾𝞙'
 global.ownerNumber = ["243993366258@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@mrjuiceofc"
 global.websitex = "https://chat.whatsapp.com/GRuUvhCqhHK08msKMadAji"
@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/mrjuice01' //script link
 global.packname = "Belongs To"
 global.author = "ᴹᴿ᭄ ᴊᴜɪᴄᴇོ ×፝֟͜×"
 global.creator = "243993366258@s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['&']
 global.sessionName = 'session'
 global.hituet = 0
 
